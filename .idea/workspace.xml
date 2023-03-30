@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f1ff4426-0cdc-4f0c-9853-514b74f9550d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/apk/sample.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APK/Soam-APK.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChromeDriver/chromedrivers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Geckodriver/geckodriver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Geckodriver/geckodriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Geckodriver/geckodriver_linux" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IEDriver/IEDriverServer.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Properties/EmailCSV.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/test-image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/core/AppiumServerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/core/utils/AndroidCore/AndroidDriverSetup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/core/utils/AndroidCore/AndroidDriverSetup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/core/utils/AndroidCore/AppiumServerRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/core/utils/AndroidCore/AppiumServerRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/core/utils/AndroidCore/CapabilitiesGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/core/utils/AndroidCore/CapabilitiesGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/core/utils/AndroidCore/ExtentReportUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/core/utils/AndroidCore/Initializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/core/utils/AndroidCore/Ssh.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/core/utils/AndroidCore/Wait.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/core/utils/AppiumHook/AppiumServerRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/core/utils/AppiumHook/MobileConnector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/core/utils/AppiumHook/emulatorRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/core/utils/BrowerConfig/WebConnector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/core/utils/BsApiHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/core/utils/BsDeviceHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/core/utils/BsLocalHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/core/utils/ConfigUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/core/utils/EmailSender/EmailUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/core/utils/PropertyReader/PropertyFileReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/core/utils/TestRailConnector/TestRailData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/core/utils/TestRailConnector/TestRailRun.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/core/utils/Wait.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/core/utils/restAssured/BaseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/core/utils/restAssured/RestAssuredUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/core/utils/restAssured/TestUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/android/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/android/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/android/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/android/UpdatePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/ios/LoginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/web/PageAdminWeb.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/web/PageHomeWeb.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/web/PageLoginWeb.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/MobileRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MobileRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/config/OR.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/config/androidconfig.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/config/androidconfig.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/config/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/config/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/config/emailutil.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/config/env.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/step_defination/Android/AndroidSetup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/step_defination/Android/AndroidSetup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/step_defination/Android/Scrollfunction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/step_defination/web/AdminPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/step_defination/web/LoginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/step_defination/web/MainPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Features/vimient/android/Login.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Features/vimient/api/AddLocation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Features/vimient/api/DeleteLocation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Features/vimient/api/LocationFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Features/vimient/api/ModifyLocation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Features/vimient/web/Home.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Features/vimient/web/Login.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/cucumber.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/extent-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/extent.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vimientAutomationFramework.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2NheqrSOGQQoh2G2NB2nzx1R4K1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/syedzubairalam/Desktop/Android-Framework/mobile-automation/src/test/resources&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;9ce7f637e40fe9ded851e93892febf70&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+      <recent name="$PROJECT_DIR$/APK" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="step_defination.Android" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn test" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Cucumber Java.Feature: HomePage">
+    <configuration name="Feature: HomePage" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/app/android/HomePage.feature" />
+      <option name="GLUE" value="step_defination.Android" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="android-framework" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: HomePage" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: Login" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/Features/app/android/Login.feature" />
+      <option name="GLUE" value="step_defination.web step_defination.Android" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="android-framework" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: Login" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MobileRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="android-framework" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MobileRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="viement-framework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="viement-framework" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Feature: HomePage" />
+        <item itemvalue="JUnit.MobileRunner" />
+        <item itemvalue="Cucumber Java.Feature: Login" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1ff4426-0cdc-4f0c-9853-514b74f9550d" name="Changes" comment="" />
+      <created>1680120935209</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680120935209</updated>
+      <workItem from="1680120937438" duration="2628000" />
+      <workItem from="1680124899296" duration="1330000" />
+      <workItem from="1680126869033" duration="281000" />
+      <workItem from="1680127186572" duration="171000" />
+      <workItem from="1680127471662" duration="221000" />
+      <workItem from="1680127699574" duration="1031000" />
+      <workItem from="1680128749699" duration="2844000" />
+      <workItem from="1680132330167" duration="126000" />
+      <workItem from="1680132761015" duration="740000" />
+      <workItem from="1680133926786" duration="448000" />
+      <workItem from="1680138802184" duration="1184000" />
+      <workItem from="1680140017347" duration="1135000" />
+      <workItem from="1680167272016" duration="1680000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
